@@ -1,0 +1,10 @@
+.span3 {
+  margin: 20px;
+}
+.span1 {
+  margin: 20px;
+}
+#error {
+  font-size: smaller;
+  color: red;
+}
